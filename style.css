@@ -1,0 +1,293 @@
+span {
+	margin: 100px;
+}
+.buruburu {
+	font-size: 50px;
+	color: rebeccapurple;
+	display: inline-block;
+	animation: purupuru .1s infinite;
+}
+
+@keyframes purupuru {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(2px, 2px) rotateZ(1deg)}
+	50% {transform: translate(0px, 2px) rotateZ(0deg)}
+	75% {transform: translate(2px, 0px) rotateZ(-1deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.b {
+	animation: gatagata .1s infinite;
+}
+@keyframes gatagata {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(2px, 2px) rotateZ(10deg)}
+	50% {transform: translate(0px, 2px) rotateZ(0deg)}
+	75% {transform: translate(2px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.c {
+	animation: guruguru .1s infinite;
+}
+@keyframes guruguru {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(2px, 2px) rotateZ(100deg)}
+	50% {transform: translate(0px, 2px) rotateZ(0deg)}
+	75% {transform: translate(2px, 0px) rotateZ(-100deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.d {
+	animation: sowasowa .4s infinite;
+}
+@keyframes sowasowa {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(10px, 10px) rotateZ(1deg)}
+	50% {transform: translate(0px, 10px) rotateZ(0deg)}
+	75% {transform: translate(10px, 0px) rotateZ(-1deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.e {
+	animation: wahahaha .5s infinite;
+}
+@keyframes wahahaha {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(200px, 200px) rotateZ(10deg)}
+	50% {transform: translate(0px, 200px) rotateZ(0deg)}
+	75% {transform: translate(200px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.f {
+	animation: fasa- 6s infinite;
+}
+@keyframes fasa- {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-200px, -200px) rotateZ(10deg)}
+	50% {transform: translate(0px, -200px) rotateZ(0deg)}
+	75% {transform: translate(-200px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.g {
+	animation: yurayura 6s infinite;
+}
+@keyframes yurayura {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-20px, -20px) rotateZ(10deg)}
+	50% {transform: translate(0px, -20px) rotateZ(0deg)}
+	75% {transform: translate(-20px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.h {
+	animation: kuikui .5s infinite;
+}
+@keyframes kuikui {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, 0px) rotateZ(10deg)}
+	50% {transform: translate(0px, 0px) rotateZ(0deg)}
+	75% {transform: translate(0px, 0px) rotateZ(0deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.i {
+	animation: ston 1s infinite;
+}
+@keyframes ston {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-200px, -2px) rotateZ(10deg)}
+	50% {transform: translate(0px, -200px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.j {
+	animation: gui--n 6s infinite;
+}
+@keyframes gui--n {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-200px, -2px) rotateZ(10deg)}
+	50% {transform: translate(0px, -200px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.k {
+	animation: wakuwaku 1.5s infinite;
+}
+@keyframes wakuwaku {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, -2px) rotateZ(40deg)}
+	50% {transform: translate(0px, -2px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-40deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.l {
+	animation: katikati .5s infinite;
+}
+@keyframes katikati {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, -2px) rotateZ(10deg)}
+	50% {transform: translate(0px, -2px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-100deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.m {
+	animation: gu-to 5s infinite;
+}
+@keyframes gu-to {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, -2px) rotateZ(100deg)}
+	50% {transform: translate(0px, -2px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-100deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.n {
+	animation: bun .3s infinite;
+}
+@keyframes bun {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, -2px) rotateZ(0deg)}
+	50% {transform: translate(0px, -2px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-100deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.o {
+	animation: tonton .3s infinite;
+}
+@keyframes tonton {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(-2px, -2px) rotateZ(0deg)}
+	50% {transform: translate(0px, -2px) rotateZ(0deg)}
+	75% {transform: translate(-2px, 0px) rotateZ(-10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.p {
+	animation: byo-n 3s infinite;
+}
+@keyframes byo-n {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(200px,200px) rotateZ(100deg)}
+	50% {transform: translate(0px, 0px) rotateZ(0deg)}
+	75% {transform: translate(0px, 0px) rotateZ(0deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.q {
+	animation: atti_kotti 1s infinite;
+}
+@keyframes atti_kotti {
+	0% {transform: translate(100px, 100px) rotateZ(0deg)}
+	25% {transform: translate(100px,-100px) rotateZ(10deg)}
+	50% {transform: translate(0px, 0px) rotateZ(0deg)}
+	75% {transform: translate(-100px, 100px) rotateZ(10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+
+.r {
+	animation: hirahira 4s infinite;
+}
+@keyframes hirahira {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(50px, 100px) rotateZ(10deg)}
+	50% {transform: translate(-50px, 100px) rotateZ(-10deg)}
+	75% {transform: translate(50px, 200px) rotateZ(10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.s {
+	animation: huwa_huwa 9s infinite;
+}
+@keyframes huwa_huwa {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(200px, 50px) rotateZ(20deg)}
+	50% {transform: translate(-100px, -30px) rotateZ(-20deg)}
+	75% {transform: translate(200px, -20px) rotateZ(10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.t {
+	animation: shakashaka .3s infinite;
+}
+@keyframes shakashaka {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(50px, 10px) rotateZ(10deg)}
+	50% {transform: translate(-50px, -30px) rotateZ(-10deg)}
+	75% {transform: translate(50px, -20px) rotateZ(10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.u {
+	animation: gosigosi .5s infinite;
+}
+@keyframes gosigosi {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(100px, 50px) rotateZ(10deg)}
+	50% {transform: translate(-100px, 0px) rotateZ(-10deg)}
+	75% {transform: translate(100px, 50px) rotateZ(10deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.v {
+	animation: suisui 1s infinite;
+}
+@keyframes suisui {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(300px, 0px) rotateZ(0deg)}
+	50% {transform: translate(-300px, 0px) rotateZ(-0deg)}
+	75% {transform: translate(300px, 0px) rotateZ(0deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.w {
+	animation: ki-- 1s infinite;
+}
+@keyframes ki-- {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(100px, 0px) rotateZ(20deg)}
+	50% {transform: translate(100px, 0px) rotateZ(0deg)}
+	75% {transform: translate(100px, 0px) rotateZ(100deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.x {
+	animation: ki--don 1s infinite;
+}
+@keyframes ki--don {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(100px, 0px) rotateZ(0deg)}
+	50% {transform: translate(50px, 0px) rotateZ(-40deg)}
+	75% {transform: translate(50px, 0px) rotateZ(40deg)}
+	100% {transform: translate(50px, 0px) rotateZ(0deg)}
+}
+
+.y {
+	animation: teitei 1s infinite;
+}
+@keyframes teitei {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(100px, 30px) rotateZ(50deg)}
+	50% {transform: translate(-100px, 0px) rotateZ(0deg)}
+	75% {transform: translate(100px, -30px) rotateZ(-20deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+.z {
+	animation: syu_syu .5s infinite;
+}
+@keyframes syu_syu {
+	0% {transform: translate(0px, 0px) rotateZ(0deg)}
+	25% {transform: translate(100px, 20px) rotateZ(0deg)}
+	50% {transform: translate(-100px, 0px) rotateZ(0deg)}
+	75% {transform: translate(100px, -20px) rotateZ(0deg)}
+	100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
